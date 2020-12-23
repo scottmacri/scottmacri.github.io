@@ -1,1 +1,1 @@
-[Bits-N-Bytes](https://www.ScottMacri.com) | [Blog](./blog)
+[Bits-N-Bytes](https://www.ScottMacri.com) | [Blog](blog/blog.md)
