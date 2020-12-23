@@ -1,1 +1,1 @@
-[TEXT TO SHOW]Bits-N-Bytes(https://www.ScottMacri.com)
+[Bits-N-Bytes](https://www.ScottMacri.com)
