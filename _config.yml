@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 title: www.ScottMacri.com
 name: www.ScottMacri.com
 description: Bits-N-Bytes | Learn to code like a pro!
+
+github:
+  repository_url: http://www.ScottMacri.com
